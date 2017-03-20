@@ -1,3 +1,5 @@
+#:NPM. Perfect. 10/10
+rm(list=ls())
 ### Earth and Environmental Data Analysis
 #============
 ##Lab 06 - Covariation, correlation and significance
